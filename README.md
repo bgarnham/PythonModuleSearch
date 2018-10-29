@@ -1,7 +1,7 @@
 # PythonModuleSearch
 Python module search, lists all Python files with classes, function, methods and heredocs with optional syntax highlighting and output to file
 
-[![module search](https://raw.githubusercontent.com/bgarnham/PythonModuleSearch/master/Screenshot%20at%202018-10-28%2019-11-04.png)]
+![module search](https://raw.githubusercontent.com/bgarnham/PythonModuleSearch/master/Screenshot%20at%202018-10-28%2019-11-04.png)
 
 modsearch(path=None, links=True, modified=True, classes=True, functions=True, docs=True, saveas=None, colormode='trucolor', scheme='deepblue', skipdir='')
     a simple, terminal based python module search, returns a list
